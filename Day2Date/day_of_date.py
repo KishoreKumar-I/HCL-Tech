@@ -1,4 +1,5 @@
 #using build in module datetime
+
 import datetime
 
 def using_datetime(day,month,year):
@@ -28,6 +29,7 @@ def zeller_congurence(day,month,year):
 while True:
     print("1. Using built-in datetime module Approach")
     print("2. Zeller's congurence Approach")
+    print("3. Exit")
 
     choice = input("Enter your choice of approach: ")
 
