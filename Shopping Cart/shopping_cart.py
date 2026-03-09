@@ -35,3 +35,30 @@ for i in range(n):
     prices.append(price)
 
 shopping_cart(prices)
+
+
+#Output:
+# Enter the number of items in the cart: 3
+# Enter the name of the item : milk
+# Enter the price of the item: ₹50
+# Enter the name of the item : bread
+# Enter the price of the item: ₹60
+# Enter the name of the item : perfume
+# Enter the price of the item: ₹115
+
+#  Items in the cart:
+# Item : 1 , ₹50.0
+# Item : 2 , ₹60.0
+# Item : 3 , ₹115.0
+
+# Total cost : ₹225.0
+
+# Expensive item cost = ₹115.0
+
+# Please confirm the items in the cart, if you want to cancel any item, please type 'yes/no' : yes
+# Enter the item number to remove:2
+# Item with price ₹60.0 removed from your shopping cart.
+
+# Updated cart: [50.0, 115.0]
+
+# Updated total cost : ₹ 165.0

@@ -24,7 +24,7 @@ def zeller_congurence(day,month,year):
 
     weekdays = ["Saturday","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday"]
 
-    print(weekdays[zeller])
+    print("\n" + weekdays[zeller])
 
 while True:
     print("1. Using built-in datetime module Approach")
@@ -51,5 +51,19 @@ while True:
         print("Invalid Choice.")
 
 
+
+# 1. Using built-in datetime module Approach
+# 2. Zeller's congurence Approach
+# 3. Exit
+# Enter your choice of approach: 1
+# Enter a date (DD-MM-YYYY): 25-06-2005
+# Saturday
+
+# 1. Using built-in datetime module Approach
+# 2. Zeller's congurence Approach
+# 3. Exit
+# Enter your choice of approach: 2
+# Enter a date (DD-MM-YYYY): 25-06-2005
+# Saturday
 
 
