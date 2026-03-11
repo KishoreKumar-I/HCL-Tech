@@ -265,3 +265,207 @@ while True:
 
     else:
         print("Invalid choice")
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 1
+# Rounds: 3
+
+# Round -  1
+# You enter (rock/paper/scissors): rock
+# Computer chose: scissors
+# You win
+
+# Round -  2
+# You enter (rock/paper/scissors): paper
+# Computer chose: paper
+# Tie
+
+# Round -  3
+# You enter (rock/paper/scissors): paper
+# Computer chose: rock
+# You win
+
+# Final Score: 2 - 0
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 2
+# Player1: kishore 
+# Player2: kumar
+# Rounds: 3
+
+# Round -  1
+# kishore enter (rock/paper/scissors): rock
+# kumar enter (rock/paper/scissors): paper
+# kumar wins
+
+# Round -  2
+# kishore enter (rock/paper/scissors): rock
+# kumar enter (rock/paper/scissors): scissors
+# kishore wins
+
+# Round -  3
+# kishore enter (rock/paper/scissors): rock 
+# kumar enter (rock/paper/scissors): paper
+# kumar wins
+
+# Final Score: kishore 1 | kumar 2
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 4
+
+# ----------Leaderboard-----------
+# 1 . You -> 2 pts
+# 2 . kumar -> 2 pts
+# 3 . kishore -> 1 pts
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 6
+
+# Leaderboard has been reset successfully.
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 5
+
+# ------ Player Statistics ------
+
+# Player: kumar
+# Matches : 3
+# Wins    : 2
+# Losses  : 1
+# Win %   : 66.67
+
+# Player: kishore
+# Matches : 3
+# Wins    : 1
+# Losses  : 2
+# Win %   : 33.33
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 3
+# Number of players: 4      
+# Player 1: kishore
+# Player 2: manoj
+# Player 3: karthick
+# Player 4: venkat
+
+# --- Elimination Tournament ---
+
+# Match: manoj vs venkat
+# manoj enter (rock/paper/scissors): rock
+# venkat enter (rock/paper/scissors): paper
+# manoj enter (rock/paper/scissors): paper
+# venkat enter (rock/paper/scissors): rock
+# manoj enter (rock/paper/scissors): rock
+# venkat enter (rock/paper/scissors): rock
+# Tie replay
+# manoj enter (rock/paper/scissors): paper
+# venkat enter (rock/paper/scissors): rock
+# manoj wins match
+
+# Match: kishore vs karthick
+# kishore enter (rock/paper/scissors): rock
+# karthick enter (rock/paper/scissors): paper
+# kishore enter (rock/paper/scissors): paper
+# karthick enter (rock/paper/scissors): rock
+# kishore enter (rock/paper/scissors): rock
+# karthick enter (rock/paper/scissors): paper
+# karthick wins match
+
+# Match: manoj vs karthick
+# manoj enter (rock/paper/scissors): paper
+# karthick enter (rock/paper/scissors): rock
+# manoj enter (rock/paper/scissors): rock
+# karthick enter (rock/paper/scissors): scissors
+# manoj wins match
+
+# Champion: manoj
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 5
+
+# ------ Player Statistics ------
+
+# Player: kumar
+# Matches : 3
+# Wins    : 2
+# Losses  : 1
+# Win %   : 66.67
+
+# Player: kishore
+# Matches : 3
+# Wins    : 1
+# Losses  : 2
+# Win %   : 33.33
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 4
+
+# ----------Leaderboard-----------
+# 1 . manoj -> 5 pts
+
+# *******Battle Of Hands (Rock Paper and Scissors Arena******
+# 1. Computer Mode
+# 2. Two Player Mode
+# 3. Elimination Tournament
+# 4. Leaderboard
+# 5. Player Statistics
+# 6. Reset Leaderboard
+# 7. Exit
+# Enter choice: 7
+# Exiting Game

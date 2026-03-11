@@ -182,3 +182,156 @@ while True:
         break
     else:
         print("Invalid Choice!")
+
+
+#  *******SMART INVITE CONTACTS******* 
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 1
+# Enter Contact Number (10 digits number): 7845643110
+# Enter Name: kishore
+# Enter Email: kish@gmail.com
+# Enter Relationship (Family/Close Friend/Friend/Colleague/Other): friend
+# Enter House Location: chennai
+# Enter Return Gift: watch
+# Enter Gift Cost: 1500
+# 💌 Contact Added Successfully!
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 2
+# Enter Contact Number: 7845643110
+# {'name': 'Kishore', 'email': 'kish@gmail.com', 'relationship': 'friend', 'location': 'chennai', 'return_gift': 'watch', 'gift_cost': 1500.0, 'priority': 1}
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 3
+# Enter Name to Search: kishore
+# 7845643110 {'name': 'Kishore', 'email': 'kish@gmail.com', 'relationship': 'friend', 'location': 'chennai', 'return_gift': 'watch', 'gift_cost': 1500.0, 'priority': 1}
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 4
+# Enter Realtionship to Filter: friend
+# 7845643110 {'name': 'Kishore', 'email': 'kish@gmail.com', 'relationship': 'friend', 'location': 'chennai', 'return_gift': 'watch', 'gift_cost': 1500.0, 'priority': 1}
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 5
+# Enter Location to Search: chennai
+# 7845643110 {'name': 'Kishore', 'email': 'kish@gmail.com', 'relationship': 'friend', 'location': 'chennai', 'return_gift': 'watch', 'gift_cost': 1500.0, 'priority': 1}
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 7
+# Total Return Gift Budget: 1500.0
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 7
+# Total Return Gift Budget: 1500.0
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 8
+# Enter Contact Number to Delete: 7845643110
+# Contact Deleted Successfully!
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 9
+# Phonebook is Empty!
+
+#   *******SMART INVITE CONTACTS*******
+# 1.  Add Contact
+# 2.  Search by Number
+# 3.  Search by Name
+# 4.  Filter by Realtionship
+# 5.  Search by Location
+# 6.  Display VIP Contacts
+# 7.  Total Gift Budget
+# 8.  Delete Contact
+# 9.  Display All Contacts
+# 10. 📩 Exit
+# Enter Your Choice: 10
+# Exiting.
