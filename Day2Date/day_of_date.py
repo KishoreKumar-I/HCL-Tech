@@ -10,7 +10,7 @@ def using_datetime(day,month,year):
     except ValueError:
         print("Inavlid date format. Please enter the date in format DD-MM-YYYY")
 
-#using zeller's comgurence approach
+#using zeller's congurence approach
 
 def zeller_congurence(day,month,year):
     if month <3:
@@ -24,7 +24,7 @@ def zeller_congurence(day,month,year):
 
     weekdays = ["Saturday","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday"]
 
-    print("\n" + weekdays[zeller])
+    print("\n",weekdays[zeller])
 
 while True:
     print("1. Using built-in datetime module Approach")

@@ -13,7 +13,7 @@ def shopping_cart(prices):
             max_price = price
     print(f"\nExpensive item cost =₹{max_price}")
 
-    choice = input("\nPlease confirm the items in the cart, if you want to cancel any item, please type 'yes/no' : ")
+    choice = input("\nPlease confirm the items in the cart, if you want to cancel any item, enter 'yes/no' : ")
     if choice.lower() == 'yes':
         pos = int(input("Enter the item number to remove:"))
         if pos >=1 and pos<=len(prices):

@@ -94,6 +94,7 @@ class RockPaperScissors:
 
         print("\nFinal Score:", p1, player1_score, "|", p2, player2_score)
 
+
         self.update_score(p1, player1_score)
         self.update_score(p2, player2_score)
 
@@ -203,8 +204,8 @@ class RockPaperScissors:
             return
 
         ranking = sorted(self.leaderboard.items(),key=lambda x: x[1], reverse=True)
-
         pos = 1
+
         for name, score in ranking:
             print(pos, ".", name, "->", score, "pts")
             pos += 1
@@ -248,7 +249,6 @@ while True:
             players.append(name)
 
         game.elimination(players)
-            
 
     elif choice == "4":
         game.players_leaderboard()

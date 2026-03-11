@@ -44,7 +44,7 @@ def amount_to_words(total_amount):
         return "Invalid Input"
 
 
-lst = list(map(int,input("enter the items price here : ").split()))
+lst = list(map(int,input("Enter the items prices: ").split()))
 
 result = bill_total(lst)
 print("Total amount :",result)
